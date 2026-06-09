@@ -39,5 +39,5 @@ This project features a comprehensive Sales and Inventory Analysis Dashboard for
 
 🛠️ Tools Used
 
-* **Data Source:** Kaggle.
+* **Data Source:** <a href= "https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset/data">Kaggle</a>..
 * **Analysis & Visualization:** Power Query & Microsoft Power BI.
