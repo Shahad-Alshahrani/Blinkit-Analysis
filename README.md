@@ -1,6 +1,7 @@
 # Blinkit-Analysis
-📌 Project Overview
+![image alt](https://github.com/Shahad-Alshahrani/Blinkit-Analysis/blob/4024db77a2bb748a7119d067e531ff74b0522a0f/dashboard.png)
 
+📌 Project Overview
 This project features a comprehensive Sales and Inventory Analysis Dashboard for Blinkit, a leading quick-commerce platform in India. The goal is to evaluate sales performance, customer satisfaction, and inventory throughput to uncover actionable insights and identify strategic opportunities for operational optimization.
 
 📊 Key Performance Indicators (KPIs)
